@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-noroozi-cs
 - 👀 I’m interested in Backend Software Engineering, 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Apache Kafka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : http://s-noroozi-cs.github.io/
 
