@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![ ](https://komarev.com/ghpvc/?username=TudbuT&style=flat-square&color=blueviolet)
+![ ](https://komarev.com/ghpvc/?username=s-noroozi-cs&style=flat-square&color=blueviolet)
 
-![ ](https://github-readme-stats.vercel.app/api?username=TudbuT&show_icons=true&theme=dracula)
+![ ](https://github-readme-stats.vercel.app/api?username=s-noroozi-cs&show_icons=true&theme=dracula)
 
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=TudbuT&theme=dracula&show_icons=true)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=s-noroozi-cs&theme=dracula&show_icons=true)
