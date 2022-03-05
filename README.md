@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-noroozi-cs
 - 👀 I’m interested in Software Engineering, 
-- 🌱 I’m currently learning Cassandra
+- 🌱 I’m currently learning Apache Cassandra
 - 💞️ I’m looking to collaborate on Distributed Systems (storage, streaming and processing)
 - 📫 How to reach me : http://s-noroozi-cs.github.io/
 
