@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-noroozi-cs
 - 👀 I’m interested in Software Engineering, Problem Solving, Sharing knowlege.
-- 🌱 I’m currently learning Apache Cassandra, GitLab CI/CD, Test Container
+- 🌱 I’m currently learning Apache Cassandra, Akka, Apache Flink
 - 💞️ I’m looking to collaborate on Distributed Systems (storage, streaming and processing)
 - 📫 How to reach me : http://s-noroozi-cs.github.io/
 
