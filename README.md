@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
 ![ ](https://github-readme-stats.vercel.app/api?username=s-noroozi-cs&show_icons=true&theme=dracula)
 
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=s-noroozi-cs&theme=dracula&show_icons=true)
-
-[![Saeid Noroozi's github activity graph](https://activity-graph.herokuapp.com/graph?username=s-noroozi-cs&theme=react-dark)](https://github.com/s-noroozi-cs)
