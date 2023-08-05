@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 ![ ](https://github-readme-activity-graph.cyclic.app/graph?username=s-noroozi-cs&theme=minimal)
 
+[![Saeid Noroozi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-noroozi-cs)
+
