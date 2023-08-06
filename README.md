@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, Problem Solving, Sharing knowlege.
 - 🌱 I’m currently learning Apache Cassandra, Storm and Flink
 - 💞️ I’m looking to collaborate on Distributed Systems (storage, streaming and processing)
-- 📫 How to reach me : http://s-noroozi-cs.github.io/
+- 📫 How to reach me : http://s-noroozi-cs.github.io/portfolio
 
 <!---
 s-noroozi-cs/s-noroozi-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
