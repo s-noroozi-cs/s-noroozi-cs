@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-noroozi-cs&langs_count=6&&hide=javascript,html,css,scss,Gherkin&show_icons=true)
 
-![Saeid Noroozi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-noroozi-cs&theme=github)
+![Saeid Noroozi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-noroozi-cs)
 
