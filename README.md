@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ![ ](https://komarev.com/ghpvc/?username=s-noroozi-cs&style=flat-square&color=blueviolet)
 
-![ ](https://github-readme-stats.vercel.app/api?username=s-noroozi-cs&show_icons=true&theme=dracula)
+![ ](https://github-readme-stats.vercel.app/api?username=s-noroozi-cs&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-noroozi-cs&langs_count=6&&hide=javascript,html,css,scss,Gherkin&show_icons=true)
 
