@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-noroozi-cs
 - 👀 I’m interested in Software Engineering, Problem Solving, Sharing knowlege.
-- 🌱 I’m currently learning Cloud native Java Application Development
+- 🌱 I’m currently learning Cloud native Java & Go Application Development
 - 💞️ I’m looking to collaborate on Distributed Systems (storage, streaming and processing)
 - 📫 How to reach me : http://s-noroozi-cs.github.io/portfolio
 
