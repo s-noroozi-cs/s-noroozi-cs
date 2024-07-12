@@ -11,3 +11,8 @@
 
 ![Saeid Noroozi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-noroozi-cs&theme=github-compact&bg_color=ffffff)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![GitHub stats](https://raw.githubusercontent.com/s-noroozi-cs/s-noroozi-cs/master/profile-3d-contrib/profile-night-green.svg)
+
+
